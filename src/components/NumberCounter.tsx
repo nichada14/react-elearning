@@ -3,8 +3,8 @@ import CountUp from "react-countup"
 
 const NumberCounter = () => {
   return (
-    <div className="bg-secondary text-white py-12">
-        <div className="container grid grid-cols-2 md:grid-cols-4 gap-8">
+    <div className="py-12 text-white bg-secondary">
+        <div className="container grid grid-cols-2 gap-8 md:grid-cols-4">
             <div className="flex flex-col items-center justify-center">
                 <p className="text-3xl font-semibold">
                     <CountUp
