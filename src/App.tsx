@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import NavbarBanner from "./components/NavbarBanner"
 import NumberCounter from "./components/NumberCounter"
+import SubjectCard from "./components/SubjectCard"
 import WhyChooseUs from "./components/WhyChooseUs"
 
 
@@ -15,6 +16,7 @@ const App = () => {
       <NumberCounter />
       <WhyChooseUs />
       <Banner />
+      <SubjectCard />
     </main>
   )
 }
