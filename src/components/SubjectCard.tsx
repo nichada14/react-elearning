@@ -2,7 +2,6 @@ import { FaBook } from "react-icons/fa";
 import { SubjectData } from "../data/data";
 import { motion } from "framer-motion";
 
-
 const SubjectCard = () => {
   return (
     <>
